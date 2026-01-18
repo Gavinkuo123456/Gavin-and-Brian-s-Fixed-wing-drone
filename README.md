@@ -1,8 +1,7 @@
 ## Build Log
 
-### 2026/1/11: second flight 
-* **Details:** Successfully preformed second flight. Flying normaly. Tried waypoint mission, waypoint too 
-close, didn't finish whole mission.
+### 2026/1/11: Fecond Flight 
+* **Details:** Successfully preformed second flight. Flying normaly. Tried waypoint mission, waypoint too close, didn't finish whole mission.
 
 ![detail](./images/vlcsnap-2026-01-19-01h05m35s367.png)
 
@@ -13,13 +12,13 @@ close, didn't finish whole mission.
 
 ---
 
-### 2026/1/9: crash
+### 2026/1/9: Crash
 * **Details:** FC double side tape fall off, plane lost balance and crashed.
 ![detail](./images/IMG_8538.jpg)
 
 ---
 
-### 2025/12/30: First flight
+### 2025/12/30: First Flight
 * **Details:** Successfully preformed first flight. GPS,telemetry,fly by wire working properly.
 ![detail](./images/vlcsnap-2026-01-19-01h05m14s587.png)
 ![detail](./images/vlcsnap-2026-01-19-01h05m05s270.png)
