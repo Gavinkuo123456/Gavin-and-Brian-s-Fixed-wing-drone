@@ -8,7 +8,8 @@
 ---
 
 ### 2026/1/10: Airframe Repair 
-* **Details:** Repair destroyed nose and wing, 3D print a new nose cone with custom compartment. GPS module fried, use APM M8N for now.
+* **Details:** Repair destroyed nose and wing, 3D print a new nose cone with custom compartment(detail in /3D_CAD_files). GPS module fried, use APM M8N for now.
+![detail](./images/IMG_8653.jpg)
 
 ---
 
