@@ -1,3 +1,9 @@
+## Plan and Vision
+
+### This project focuses on the development of a fixed-wing UAV system, prioritizing seamless system integration and the validation of long-range communication links. The primary objective is to execute fully autonomous inspection missions while integrating high-precision imaging for advanced terrain scanning and mapping.
+
+![detail](./images/IMG_8652.JPG)
+
 ## Build Log
 
 ### 2026/1/11: Second Flight 
